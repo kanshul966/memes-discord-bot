@@ -1,5 +1,3 @@
----
-
 # 🤖 Taskora Discord Bot
 
 Taskora is a **multi-purpose Discord bot** built with [discord.py](https://discordpy.readthedocs.io/) and MongoDB.
