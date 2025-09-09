@@ -1,0 +1,7 @@
+discord.py==2.3.2
+pymongo==4.8.0
+requests==2.31.0
+aiohttp==3.9.5
+pillow==10.3.0
+yt-dlp==2024.8.6
+pydub==0.25.1
